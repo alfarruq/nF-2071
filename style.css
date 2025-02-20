@@ -1,0 +1,26 @@
+
+table{
+    border-collapse: collapse;
+    width: 60%;
+    text-align: center;
+}
+
+td{
+    border: 1px solid black;
+    height: 40px;
+}
+
+
+
+.ullu{
+    background-color: gold;
+}
+
+caption{
+    background-color: aqua;
+}
+
+.red{
+    background-color: red;
+    color: white;
+}
